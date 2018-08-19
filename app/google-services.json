@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "874099554740",
+    "firebase_url": "https://mycollege-beb70.firebaseio.com",
+    "project_id": "mycollege-beb70",
+    "storage_bucket": "mycollege-beb70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874099554740:android:9825f77569c373d7",
+        "android_client_info": {
+          "package_name": "com.developerss.android.mycollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874099554740-295moc49lv4v07lnger2hj6do45tn1dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developerss.android.mycollege",
+            "certificate_hash": "0795f8af17f82cb068442c4444e12cf0c31c2d1f"
+          }
+        },
+        {
+          "client_id": "874099554740-kaj110jr1j2k2r90v749sujbok9muqfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgiOhyty7ZmLuDqwTMunsd5bnRgrmSfvU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874099554740-kaj110jr1j2k2r90v749sujbok9muqfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
